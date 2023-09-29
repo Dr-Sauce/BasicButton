@@ -23,7 +23,7 @@ Basic Apple Guy in a Shortcut
 
 [**u/mvan231**](https://reddit.com/user/mvan231) - Thanks for helping parsing data.
 
-[@PARKasd](https://github.com/PARKasd) - Thanks for fixing wallpaper not changing on iOS 17.
+[**@PARKasd**](https://github.com/PARKasd) - Thanks for fixing wallpaper not changing on iOS 17.
 
 # Source:
 
