@@ -14,7 +14,7 @@ Basic Apple Guy in a Shortcut
 
 3. Go to **Settings** app **→ Action Button → Shortcuts**. Set option to **Basic Button Plug-in**.
 
-4. Now if you press the action button on your iPhone, the wallpaper will change to a random Basic Apple Guy wallpaper. (Make sure to set wallpaper settings to 'Photos' on iOS 17+)
+4. Now if you press the action button on your iPhone, the wallpaper will change to a random Basic Apple Guy wallpaper. (Make sure wallpaper settings is set to 'Photos' on iOS 17+)
 
 # Credits:
 [**Basic Apple Guy**](https://twitter.com/basicappleguy) - Thanks for being part of the Apple community and creating such great wallpapers.
