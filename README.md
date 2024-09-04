@@ -1,6 +1,8 @@
 # Basic Button
 Basic Apple Guy in a Shortcut
 
+Designed to work on iOS 15. (But also works on other versions)
+
 ![image](https://github.com/Dr-Sauce/BasicButton/assets/82555878/63cb4b36-302d-4eb6-af3c-b5e703cd1e5f)
 
 # Features:
