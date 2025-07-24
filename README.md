@@ -1,5 +1,5 @@
 # Basic Button
-Basic Apple Guy in a Shortcut
+Set the latest wallpaper from Basic Apply Guy at the press of a button.
 
 Designed to work on iOS 15. (But also works on other versions)
 
