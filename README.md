@@ -1,22 +1,21 @@
 # Basic Button
 Set the latest wallpaper from Basic Apply Guy at the press of a button.
 
-Designed to work on iOS 15. (But also works on other versions)
+<img width="100" height="100" alt="App Icon Template copy" src="https://github.com/user-attachments/assets/99bbaba2-947c-497c-9e91-1eff85a186eb" />
 
-![image](https://github.com/Dr-Sauce/BasicButton/assets/82555878/63cb4b36-302d-4eb6-af3c-b5e703cd1e5f)
 
 # Features:
 - Look up **Basic Apple Guy**'s latest posts.
-- Change wallpapers by pressing the action button.
+- Change wallpapers by pressing the Action Button.
 
-# How to install:
-1. Go to [**releases**](https://github.com/Dr-Sauce/basicbutton/releases/latest) and download the latest version.
+# Install:
+1. Go to [**Releases**](https://github.com/Dr-Sauce/basicbutton/releases/latest). Open iCloud link and press Add Shortcut.
 
-2. Run Shortcut. Install **Basic Button Plug-in**.
+2. Run **Basic Button**. Install **Basic Button Plug-in**.
 
-3. Go to **Settings** app **→ Action Button → Shortcuts**. Set option to **Basic Button Plug-in**.
+3. Go to **Settings** app **→ Action Button → Shortcuts**. Set the shortcut to **Basic Button Plug-in**.
 
-4. Now if you press the action button on your iPhone, the wallpaper will change to a random Basic Apple Guy wallpaper. (Make sure wallpaper settings is set to 'Photos')
+4. Press Action Button and see how your wallpaper changes. (Make sure wallpaper settings are set to **Photos**)
 
 # Credits:
 [**Basic Apple Guy**](https://twitter.com/basicappleguy) - Thanks for being part of the Apple community and creating such great wallpapers.
