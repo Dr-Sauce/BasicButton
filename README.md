@@ -1,7 +1,7 @@
 # Basic Button
 Set the latest wallpaper from Basic Apply Guy at the press of a button.
 
-<img width="100" height="100" alt="App Icon Template copy" src="https://github.com/user-attachments/assets/99bbaba2-947c-497c-9e91-1eff85a186eb" />
+<img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/72cad927-4baf-436a-83ab-c6493a338fa1" />
 
 
 # Features:
