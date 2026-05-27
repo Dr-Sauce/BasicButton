@@ -20,7 +20,7 @@ Set the latest wallpaper from Basic Apply Guy at the press of a button.
 # Credits:
 [**Basic Apple Guy**](https://twitter.com/basicappleguy) - Thanks for being part of the Apple community and creating such great wallpapers.
 
-[**@DailyTekk**](https://twitter.com/DailyTekk) - Thanks for the idea of **Basic Button**.
+[**@DailyTekk**](https://twitter.com/DailyTekk) - Thanks for the idea of [**Basic Button**](https://x.com/DailyTekk/status/1706740310032646293).
 
 [**u/mvan231**](https://reddit.com/user/mvan231) - Thanks for helping parsing data.
 
