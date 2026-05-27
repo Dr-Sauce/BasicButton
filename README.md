@@ -9,7 +9,7 @@ Set the latest wallpaper from Basic Apply Guy at the press of a button.
 - Change wallpapers by pressing the Action Button.
 
 # Install:
-1. Go to [**Releases**](https://github.com/Dr-Sauce/basicbutton/releases/latest). Open iCloud link and press Add Shortcut.
+1. Install [Basic Button](https://github.com/Dr-Sauce/basicbutton/releases/latest). (Click iCloud link to install)
 
 2. Run **Basic Button**. Install **Basic Button Plug-in**.
 
@@ -20,7 +20,7 @@ Set the latest wallpaper from Basic Apply Guy at the press of a button.
 # Credits:
 [**Basic Apple Guy**](https://twitter.com/basicappleguy) - Thanks for being part of the Apple community and creating such great wallpapers.
 
-[**@DailyTekk**](https://twitter.com/DailyTekk) - Thanks for the idea of [**Basic Button**](https://x.com/DailyTekk/status/1706740310032646293).
+[**@DailyTekk**](https://twitter.com/DailyTekk) - Thanks for the idea of [Basic Button](https://x.com/DailyTekk/status/1706740310032646293).
 
 [**u/mvan231**](https://reddit.com/user/mvan231) - Thanks for helping parsing data.
 
